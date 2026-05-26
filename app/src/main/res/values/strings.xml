@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Map Tracker</string>
+    <string name="welcome_title">Bonjour !</string>
+    <string name="welcome_subtitle">Prêt pour le suivi ?</string>
+    <string name="geo_title">Géolocalisation</string>
+    <string name="app_description">Suivez votre position en temps réel et visualisez vos déplacements sur une carte interactive.</string>
+    <string name="show_map">Afficher La Carte</string>
+    <string name="gps_status">Service GPS Actif</string>
+    <string name="new_location">Position : Lat: %.4f, Lon: %.4f, Alt: %.2f, Acc: %.1f</string>
+</resources>
